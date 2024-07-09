@@ -1,0 +1,269 @@
+.main{
+    width: 1900px;
+    height: 800px;
+    background-color: rgb(243, 147, 4);
+}
+
+/* n 1 work star */
+
+.n1{
+    width: 1900px;
+    height: 200px;
+    background-color: rgb(225, 0, 0);
+    display: flex;
+}
+.n1c1{
+    width: 950;
+    height: 200px;
+    background-color: rgb(255, 255, 0);
+}
+.n1c1{
+    width: 950px;
+    height: 200px;
+    background-color: rgb(20, 211, 20);
+}
+
+/* n 1 work end */
+
+/* n 2 work star */
+
+.n2{
+    width: 1900px;
+    height: 200px;
+    background-color: rgb(213, 250, 6);
+}
+
+/* n 2 work end */
+
+/* n 3 work star */
+.n3{
+    width: 1900px;
+    height: 200px;
+    background-color: rgb(68, 117, 126);
+    display: flex;
+}
+
+.n3c1{
+    width: 950px;
+    height: 200px;
+    background-color: rgb(210, 13, 236);
+}
+
+.n3c2{
+    width: 950px;
+    height: 200px;
+    background-color: rgb(38, 0, 255);
+}
+
+/* n3 child 2 > sub child work start */
+.n3c2sc1{
+    width: 950px;
+    height: 100px;
+    background-color: blueviolet;
+
+}
+.n3c2sc2{
+    width: 950px;
+    height: 100px;
+    background-color: rgb(255, 251, 0);
+    display: flex ;
+}
+
+/* n3 child 2 > sub child work end */
+
+/* n3 > child 2 > sub child 2 > mini child work start */
+
+.n3c2sc2minc1{
+    width: 475px;
+    height: 100px;
+    background-color: saddlebrown;
+
+}
+.n3c2sc2minc2{
+    width: 475px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+/* n3 > child 2 > sub child 2 > mini child work end */
+
+
+/* n3 > child 2 > sub child 2 > mini child > ultra mini child work start */
+
+.n3c2sc2minc2ulc1{
+    width: 475px;
+    height: 50px;
+    background-color: rgb(233, 12, 12);
+}
+.n3c2sc2minc2ulc2{
+    width: 475px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+}
+/* n3 > child 2 > sub child 2 > mini child > ultra mini child work end */
+
+
+/* n3 > child 2 > sub child 2 > mini child > ultra mini children > micro child work start */
+
+.n3c2sc2minc2ulc2mc1{
+    width: 237.5px;
+    height: 50px;
+    background-color: rgb(12, 12, 233);
+}
+.n3c2sc2minc2ulc2mc2{
+    width: 237.5px;
+    height: 50px;
+    background-color: rgb(9, 97, 21);
+}
+
+/* n3 > child 2 > sub child 2 > mini child > ultra mini children > micro child work end */
+
+
+/* n3 > child 2 > sub child 2 > mini child > ultra mini children > micro child > ultra micro child work start */
+
+.n3c2sc2minc2ulc2mc2umc1{
+    width: 237.5px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.n3c2sc2minc2ulc2mc2umc2{
+    width: 237.5px;
+    height: 25px;
+    background-color: rgb(225, 0, 255);
+    display: flex;
+}
+/* n3 > child 2 > sub child 2 > mini child > ultra mini children > micro child > ultra micro child work end */
+
+
+/* n3 > child 2 > sub child 2 > mini child > ultra mini children > micro child > ultra micro child > final work start */
+
+.final1{
+    width: 47.5px;
+    height: 50px;
+    background-color: black;
+}
+.final2{
+    width: 47.5px;
+    height: 50px;
+    background-color: rgb(3, 75, 69);
+}
+.final3{
+    width: 47.5px;
+    height: 50px;
+    background-color: rgb(183, 1, 255);
+}
+.final4{
+    width: 47.5px;
+    height: 50px;
+    background-color: rgb(158, 75, 206);
+}
+.final5{
+    width: 47.5px;
+    height: 50px;
+    background-color: rgb(183, 202, 7);
+}
+.final6{
+    width: 47.5px;
+    height: 50px;
+    background-color: rgb(74, 189, 21);
+}
+.final7{
+    width: 47.5px;
+    height: 50px;
+    background-color: rgb(143, 81, 81);
+}
+.final8{
+    width: 47.5px;
+    height: 50px;
+    background-color: rgb(26, 193, 235);
+}
+.final9{
+    width: 47.5px;
+    height: 50px;
+    background-color: rgb(255, 17, 215);
+}
+.final10{
+    width: 47.5px;
+    height: 50px;
+    background-color: rgb(8, 114, 43);
+}
+/* n3 > child 2 > sub child 2 > mini child > ultra mini children > micro child > ultra micro child > final work end */
+
+
+/* n34 work star */
+.n4{
+    width: 1900px;
+    height: 200px;
+    background-color: rgb(255, 187, 0);
+    display: flex;
+}
+
+.n4c1{
+    width: 380px;
+    height: 200px;
+    background-color: rgb(162, 149, 235);
+}
+
+/* n 4 child 2 > sub child work start */
+
+.n4c2{
+    width: 380px;
+    height: 200px;
+    background-color: rgb(225, 0, 255);
+}
+
+.n4sc1{
+    width: 380px;
+    height: 100px;
+    background-color: rgb(245, 245, 245);
+}
+
+/* n4 > child 2 > sub child 2 > mini child work start */
+
+.n4sc2{
+    width: 380px;
+    height: 100px;
+    background-color: rgb(255, 255, 0);
+    display: flex;
+}
+
+.n4sc2m1{
+    width: 190px;
+    height: 100px;
+    background-color: rgb(6, 28, 104);
+
+}
+.n4sc2m2{
+    width: 190px;
+    height: 100px;
+    background-color: rgb(255, 115, 0);
+
+}
+
+/* n4 > child 2 > sub child 2 > mini child work end */
+
+/* n4 child 2 work end */
+
+
+.n4c3{
+    width: 380px;
+    height: 200px;
+    background-color: rgb(0, 132, 255);
+}
+
+.n4c4{
+    width: 380px;
+    height: 200px;
+    background-color: rgb(44, 44, 4);
+}
+
+.n4c5{
+    width: 380px;
+    height: 200px;
+    background-color: rgb(255, 255, 0);
+}
+
+/* n4 work end */
